@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AOAOperation</string>
+    <string name="title">Operaciónes</string>
+    <string name="first_number">Primer numero</string>
+    <string name="second_number">Segundo numero</string>
+    <string name="button_add">Sumar</string>
+    <string name="button_subtract">Restar</string>
+    <string name="button_multiplication">Multiplicación</string>
+    <string name="button_division">Division</string>
+    
+    <string name="dev_text_view">_TextView_</string>
+</resources>
